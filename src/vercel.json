@@ -1,6 +1,6 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://onekey.zeabur.app"},
+        
         {
             "source": "/:match*",
             "destination": "https://onekey.zeabur.app/:match*"
