@@ -1,10 +1,11 @@
 {
     "rewrites": [
-        
+
         {
             "source": "/:match*",
             "destination": "https://onekey.zeabur.app/:match*"
         }
+        
     ],
     "github": {
         "silent": true
