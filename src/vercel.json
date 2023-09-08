@@ -1,6 +1,6 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "/", "statusCode": 400 },
+        { "source": "/", "destination": "/"},
         {
             "source": "/:match*",
             "destination": "https://onekey.zeabur.app/:match*"
