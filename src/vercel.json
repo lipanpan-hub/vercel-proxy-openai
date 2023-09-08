@@ -1,6 +1,6 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://openai.com/" },
+        { "source": "/", "destination": "https://api.openai.com" },
         {
             "source": "/:match*",
             "destination": "https://onekey.zeabur.app/:match*"
